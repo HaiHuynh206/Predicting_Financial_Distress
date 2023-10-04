@@ -42,12 +42,12 @@
 ## Result
 - Therefore, after identifying and calculating the target variable, I labeled the 507 companies and processed the dataset according to the accompanying code file. Subsequently, I employed machine learning models such as Logistic Regression, Support Vector Machine, Linear Discriminant Analysis, Random Forest, and XGBoost to predict the likelihood of Financial Distress with a training and testing ratio of 80:20. Finally, I evaluated the models using metrics such as Accuracy, Precision, Recall, F1-score, and employed Confusion Matrix to calculate the rates of Error Type 1 and Error Type 2.
 
-###Confusion Matrix of XGBoost model
+**Confusion Matrix of XGBoost model**
 <p align="center">
   <img src="Image/CM_xgb.png" />
 </p>
 
-###Confusion Matrix of Random Forest model
+**Confusion Matrix of Random Forest model**
 <p align="center">
   <img src="Image/CM_rf.png" />
 </p>
