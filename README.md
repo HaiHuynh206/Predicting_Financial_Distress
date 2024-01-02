@@ -1,4 +1,4 @@
-# Predicting the Financial Distress of SMEs in Vietnam using Maching Learning Models and Explaining Black-box Model with Shapley Value
+# Predicting the Financial Distress of SMEs in Vietnam using Machine Learning Models and Explaining Black-box Model with Shapley Value
 ---
 - This project focuses on utilizing machine learning models to predict the Financial Distress probability of small and medium-sized enterprises (SMEs) in Vietnam. According to **Decree 39/2018/ND-CP dated March 11, 2018**, issued by the Prime Minister, which provides detailed regulations on some provisions of the Law on Support for Small and Medium-sized Enterprises, SMEs in Vietnam are defined as enterprises with a capitalization of **less than 100 billion VND**. Based on this definition, I collected financial data from the reports of **507 companies** on the Upcom stock exchange.
 
